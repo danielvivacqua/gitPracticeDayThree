@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\bin\Debug\gitPracticeDayThree.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\bin\Debug\gitPracticeDayThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\bin\Debug\gitPracticeDayThree.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\obj\Debug\gitPracticeDayThree.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\obj\Debug\gitPracticeDayThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitPracticeDayThree\gitPracticeDayThree\obj\Debug\gitPracticeDayThree.pdb
